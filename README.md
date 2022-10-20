@@ -10,7 +10,7 @@
 
 <h2 align="center">Screenshot of UI</h2>
 
-<h3>User Logi</h3>
+<h3>User Login</h3>
 <img src="https://user-images.githubusercontent.com/89337309/194771890-7108b76a-1cec-494b-834e-a1554fce9809.PNG">
 
 <h3>User Registration</h3>
