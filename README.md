@@ -1,4 +1,4 @@
-<h1 align="center">Laravel Pharmacy Management Syste</h1>
+<h1 align="center">Laravel Pharmacy Management System</h1>
 
 ### Introduction
 
